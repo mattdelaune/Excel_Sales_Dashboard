@@ -49,4 +49,4 @@ These takeaways provide actionable strategies for optimizing both inventory and 
 
 
 
-![Coffee Sales Dashboard](images/dashboard.png)
+![Coffee Sales Dashboard](Images/dashboard.png)
