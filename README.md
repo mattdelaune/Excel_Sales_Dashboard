@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard using Excel
 
-## Project Overview
+## Executive Summary
 This project harnesses the power of Excel to transform raw coffee sales data into a visually compelling and interactive dashboard. By diving deep into the data, the dashboard uncovers critical trends, patterns, and correlations that are pivotal for informed decision-making. Tailored for the sales and marketing teams, this tool not only delivers actionable insights but also drives strategic initiatives, ultimately enhancing the operational efficiency and effectiveness of the organization.
 
 ## Tools and Skills
@@ -11,7 +11,7 @@ This project harnesses the power of Excel to transform raw coffee sales data int
 ## Business Question:
 **"How do seasonal trends and customer demographics affect the sales of different coffee roast types across various regions, and what strategies can be implemented to optimize inventory and marketing efforts based on these insights?"**
 
-## Insights:
+## Key Insights:
 **1. Seasonal Trends and Regional Preferences:**
 - **Seasonality:** Distinct seasonal sales trends were identified for different coffee types. Robusta peaks in August-September, Arabica in September, and Excelsa in June, while Liberica shows no consistent seasonal pattern.
 - **Regional Preferences:** The United States accounts for the majority of sales across all roast types, highlighting the need to prioritize this region in both inventory and marketing strategies.
@@ -33,12 +33,6 @@ This project harnesses the power of Excel to transform raw coffee sales data int
 - **Seasonal Campaigns:** Align marketing campaigns with the seasonal peaks of each coffee type to capitalize on natural demand spikes.
 - **Expand Loyalty Program:** Enhance the loyalty program by offering exclusive discounts or early access to new products, encouraging more customers to join.
 - **U.S.-Focused Marketing:** Develop targeted campaigns that resonate with U.S. consumers, incorporating region-specific preferences and emphasizing the benefits of the loyalty program.
-
-## Key Takeaways:
-- **Seasonal Sales Trends:** Understanding the distinct seasonal peaks allows for strategic inventory adjustments, ensuring product availability during peak sales periods.
-- **Regional Dominance:** The U.S. market's dominance in sales across all roast types requires focused inventory and marketing strategies in this region.
-- **Loyalty Program Potential:** The loyalty program's effectiveness highlights an opportunity for expansion to further boost customer retention and sales.
-- **Optimized Marketing:** Aligning marketing efforts with seasonal trends and focusing on the U.S. market are essential strategies for increasing sales.
 
 These insights provide actionable strategies to optimize both inventory management and marketing efforts, ultimately supporting better decision-making and enhancing operational effectiveness within the sales and marketing teams.
 
