@@ -36,4 +36,5 @@ This project harnesses the power of Excel to transform raw coffee sales data int
 
 These insights provide actionable strategies to optimize both inventory management and marketing efforts, ultimately supporting better decision-making and enhancing operational effectiveness within the sales and marketing teams.
 
+## Dashboard Screenshot
 ![Coffee Sales Dashboard](Images/dashboard.png)
