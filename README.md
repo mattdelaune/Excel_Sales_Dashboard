@@ -1,7 +1,7 @@
 # Coffee Sales Dashboard using Excel
 
 ## Executive Summary
-This project harnesses the power of Excel to transform raw coffee sales data into a visually compelling and interactive dashboard. By diving deep into the data, the dashboard uncovers critical trends, patterns, and correlations that are pivotal for informed decision-making. Tailored for the sales and marketing teams, this tool not only delivers actionable insights but also drives strategic initiatives, ultimately enhancing the operational efficiency and effectiveness of the organization.
+This project harnesses the power of Excel to transform raw coffee sales data containing 1000 sales transactions into a visually compelling and interactive dashboard. By diving deep into the data, the dashboard uncovers critical trends, patterns, and correlations that are pivotal for informed decision-making. Tailored for the sales and marketing teams, this tool not only delivers actionable insights but also drives strategic initiatives, ultimately enhancing the operational efficiency and effectiveness of the organization.
 
 ## Tools and Skills
 - **Excel**: Advanced use of Pivot Tables, Pivot Charts, Slicers, and Timelines for data visualization. Data manipulation and population were performed using VLOOKUP, MATCH, and other Excel functions. Data cleaning techniques were also applied to prepare the dataset for analysis.
